@@ -50,6 +50,6 @@ To perform this task, the process involved were:
 
 
 ## **Insights**
-[![Power_BI REPORT](https://img.shields.io/badge/Power_BI_REPORT-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/reportEmbed?reportId=ec34fde8-6bfa-4244-b90c-0b8518613930&autoAuth=true&ctid=2972dee4-c6b4-46b7-9440-98d7b5e9af92)
+[![Power_BI REPORT](https://img.shields.io/badge/Power_BI_REPORT-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNmNmOTk1NTgtYWQ4OS00OWNkLWJiMDAtNmMxM2ZlNjNiNmVmIiwidCI6IjI5NzJkZWU0LWM2YjQtNDZiNy05NDQwLTk4ZDdiNWU5YWY5MiJ9&pageName=ReportSection51bf5bebe37e695fb7b0)
 
 click to view power BI dashboard
