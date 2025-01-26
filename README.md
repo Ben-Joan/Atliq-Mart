@@ -20,7 +20,7 @@ As the data analyst in the supply chain team who joined Atliq Mart recently. You
 ## **Datasource**
 The data, metrics list, domain concepts, business stakeholder meetings can all be sourced on [codebasics.io](https://codebasics.io/event/codebasics-resume-project-challenge)
 
-## Data Cleaning and Transformation
+## Strategy
 To perform this task, the process involved were:
 
 1.Importing data as a CSV file and creating a data model from scratch to link the tables 
@@ -50,6 +50,6 @@ To perform this task, the process involved were:
 
 
 ## **Insights**
-[![Power_BI REPORT](https://img.shields.io/badge/Power_BI_REPORT-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNmNmOTk1NTgtYWQ4OS00OWNkLWJiMDAtNmMxM2ZlNjNiNmVmIiwidCI6IjI5NzJkZWU0LWM2YjQtNDZiNy05NDQwLTk4ZDdiNWU5YWY5MiJ9&pageName=ReportSection51bf5bebe37e695fb7b0)
+<!-- [![Power_BI REPORT](https://img.shields.io/badge/Power_BI_REPORT-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNmNmOTk1NTgtYWQ4OS00OWNkLWJiMDAtNmMxM2ZlNjNiNmVmIiwidCI6IjI5NzJkZWU0LWM2YjQtNDZiNy05NDQwLTk4ZDdiNWU5YWY5MiJ9&pageName=ReportSection51bf5bebe37e695fb7b0)
 
-click to view power BI dashboard
+click to view power BI dashboard -->
