@@ -11,11 +11,11 @@ The Supply Chain team decided to use a standard approach to measure the service 
 ## Task  
 As the data analyst in the supply chain team who joined Atliq Mart recently. You have been briefed about the the task in the stakeholder business review meeting. Now Imagine yourself play the role of the new data analyst who is excited to build this dashboard and perform the following task
 
-1.Create the metrics according to the metrics list.
+  1.Create the key metrics as required to help track business performance.
 
-2.Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in the form of a comic.
+  2.Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in the form of a comic.
 
-3.Create relevant insights that are not provided in the metric list/stakeholder meeting
+  3.Create relevant insights that are not provided in the metric list/stakeholder meeting
  
 ## **Datasource**
 The data, metrics list, domain concepts, business stakeholder meetings can all be sourced on [codebasics.io](https://codebasics.io/event/codebasics-resume-project-challenge)
