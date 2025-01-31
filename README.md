@@ -11,11 +11,11 @@ The Supply Chain team decided to use a standard approach to measure the service 
 ## Task  
 As the data analyst in the supply chain team who joined Atliq Mart recently. You have been briefed about the the task in the stakeholder business review meeting. Now Imagine yourself play the role of the new data analyst who is excited to build this dashboard and perform the following task
 
-  1.Create the key metrics as required to help track business performance.
+- Create the key metrics as required to help track business performance.
 
-  2.Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in the form of a comic.
+- Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in the form of a comic.
 
-  3.Create relevant insights that are not provided in the metric list/stakeholder meeting
+ - Create relevant insights that are not provided in the metric list/stakeholder meeting
  
 ## **Datasource**
 The data, metrics list, domain concepts, business stakeholder meetings can all be sourced on [codebasics.io](https://codebasics.io/event/codebasics-resume-project-challenge)
@@ -49,7 +49,7 @@ To perform this task, the process involved were:
  4. Creating tooltips and visuals using appropriate charts to communicate findings
 
 
-## **Insights**
+<!-- ## **Insights** -- >
 <!-- [![Power_BI REPORT](https://img.shields.io/badge/Power_BI_REPORT-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNmNmOTk1NTgtYWQ4OS00OWNkLWJiMDAtNmMxM2ZlNjNiNmVmIiwidCI6IjI5NzJkZWU0LWM2YjQtNDZiNy05NDQwLTk4ZDdiNWU5YWY5MiJ9&pageName=ReportSection51bf5bebe37e695fb7b0)
 
 click to view power BI dashboard -->
